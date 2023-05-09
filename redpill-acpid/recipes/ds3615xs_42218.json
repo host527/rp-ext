@@ -27,7 +27,7 @@
   },
 
     "scripts": {
-    "on_os_load": "install-acpid.sh"
+    "on_os_load": "install-acpid_v6.sh"
   }
 
 }
